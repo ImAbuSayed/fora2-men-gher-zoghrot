@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fora2-men-gher-zoghrot/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Fora2 Men Gher Zoghrot](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
