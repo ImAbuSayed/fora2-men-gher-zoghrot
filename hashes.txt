@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fora2 Men Gher Zoghrot
+
+This log tracks the cryptographic history and versioning for the song **Fora2 Men Gher Zoghrot** (fora2-men-gher-zoghrot).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:07:23.002089 | `v1` | `4232aa4696a76acf3b204c134fb462cf610e7bafe14da299eee9af672ce22e08` | `e7084b48bd96c097c09281c91aea7e91a248ca060242d0543a9e9d201f7010d4` | `2026-05-08_fora2-men-gher-zoghrot-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
